@@ -1,7 +1,7 @@
 {
   "name": "cubes",
   "private": true,
-  "main": "index.mjs",
+  "main": "index.js",
   "type": "module",
   "packageManager": "yarn@3.2.0",
   "devDependencies": {
@@ -9,7 +9,7 @@
     "@cubejs-backend/server": "^0.33.36"
   },
   "scripts": {
-    "start": "node index.mjs"
+    "start": "node index.js"
   },
   "eslintConfig": {
     "env": {
